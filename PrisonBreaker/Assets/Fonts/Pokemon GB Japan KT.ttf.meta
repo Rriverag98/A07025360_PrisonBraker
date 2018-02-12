@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a44d9e23869fd3d4d9bc4ea12b0fb492
+timeCreated: 1518300954
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pokemon GB Japan KT
+  fontNames:
+  - Pokemon GB Japan KT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

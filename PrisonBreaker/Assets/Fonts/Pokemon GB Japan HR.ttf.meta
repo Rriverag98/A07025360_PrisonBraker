@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5755bdc4179237f4793c2e4aa9c40b85
+timeCreated: 1518300954
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pokemon GB Japan HR
+  fontNames:
+  - Pokemon GB Japan HR
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
